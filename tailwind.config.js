@@ -3,7 +3,11 @@ module.exports = {
         './public/**/*.html', './src/**/*.vue',
     ],
     theme: {
-        extend: {},
+        extend: {
+            backgroundImage: (theme) => ({
+                "hero-pattern": "url('pattern-bg.png')",
+            }),
+        },
     },
     plugins: [],
 }
