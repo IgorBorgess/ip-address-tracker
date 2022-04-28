@@ -14,7 +14,7 @@ After the installation is complete, you need to type **npm run serve** to start 
 After that, you're free to go!
 ```
 
-<img src="src/screenshots/Capturar.JPG">
+<img src="src/screenshots/Capturar.PNG">
 
 ```
 You'll first see the Home page in which you'll enter the IP you want to track!
@@ -22,7 +22,7 @@ You can also leave it empty so the API will track your IP instead.
 ```
 
 <p align="center">
-  <img src="src/screenshots/Capturar2.JPG">
+  <img src="src/screenshots/Capturar2.PNG">
 </p>
 
 
