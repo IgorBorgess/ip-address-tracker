@@ -13,8 +13,9 @@ It'll install everything it needs. If you want to know the dependencies, check t
 After the installation is complete, you need to type **npm run serve** to start the server in your localhost, usually :8080. 
 After that, you're free to go!
 ```
-
-<img src="src/screenshots/Capturar.PNG">
+<p align="center">
+    <img src="src/screenshots/Capturar.PNG">
+</p>
 
 ```
 You'll first see the Home page in which you'll enter the IP you want to track!
